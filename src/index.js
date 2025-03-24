@@ -17,4 +17,4 @@ const fibonnaci = (input) => {
 
   return fibArray;
 };
-console.log(fibonnaci(5));
+console.log("Fibonnaci", fibonnaci(5));
